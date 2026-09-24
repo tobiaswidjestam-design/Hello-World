@@ -1,1 +1,16 @@
 My own custom change for Task 2 
+# 🚀 Task 2: Mission Accomplished
+
+> "My own custom change for Task 2" – Successfully cloned, renamed, and re-published! ✨
+
+### 🛠️ What was done:
+- [x] Cloned the base repository[cite: 9]
+- [x] Connected to my own GitHub account[cite: 9]
+- [x] Created `mynotes.txt` and added a custom change[cite: 9, 10, 11]
+- [x] Committed and pushed like a pro[cite: 9]
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
